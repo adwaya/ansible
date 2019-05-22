@@ -1,6 +1,9 @@
-# Installing Python and Boto3
+![](image.png)
+# It's all about **Ansible** 👨🏻‍💻
 
-## Installing Python
+## Getting the Environments ready with Python🐍 and Boto3🤖 on EC2☁︎
+
+### Installing Python(Ubuntu 18.04)
 - Run `apt update && apt install -y python` to install python
 - Run `apt install python-pip` and 'pip install boto3'
 - Please install AWS-CLI using `apt install awscli`
